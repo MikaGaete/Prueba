@@ -8,5 +8,6 @@ class helloorld{
 		Node<T> tmp;
 		
 		if (this.head == null) { return null; }
+		//Is this working?
 }
 
